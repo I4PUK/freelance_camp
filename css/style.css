@@ -1,0 +1,110 @@
+.body{
+    padding: 0;
+    margin: 0;
+    color: #000000;
+    font-size: 18px;
+    font-family: 'Vollkorn', serif;
+    font-weight: 400;
+    letter-spacing: 0.03em;
+    line-height: 1.55em;
+}
+
+p {
+    font-size: 18px;
+    letter-spacing: 0.03em;
+    line-height: 1.55em;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 1100px;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+}
+
+.header{
+    padding-top: 72px;
+}
+
+.header-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 72px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.mail{
+    font-size: 18px;
+}
+
+.offer{
+    margin-bottom: 37px;
+    margin-top: 52px;
+}
+
+.location{
+    font-size: 24px;
+    margin-bottom: 21px;
+}
+
+.offer-title{
+    font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+}
+
+.desc{
+    font-size: 24px;
+    margin-bottom: 21px;
+    margin-top: 21px;
+}
+.btn{
+    color: #ffffff;
+    background: #6A85E3;
+    padding: 24px 30px;
+    display: block;
+    max-width: 197px;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 4px;
+}
+.btn:hover{
+    background: #4468e9;
+}
+.btn-active{
+    background-color: #35478a;
+}
+.intro{
+    background: #eaeaea;
+    padding: 15px;
+    max-width: 441px;
+    font-size: 18px;
+    border-radius: 4px;
+}
+.intro-title{
+    font-weight: 700;
+}
+.bali-img{
+    max-width: 446px;
+    max-height: 596px;
+    border-radius: 4px;
+}
