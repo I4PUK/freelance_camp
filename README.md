@@ -1,3 +1,4 @@
 Title:
 
-![sochi-sunset](https://user-images.githubusercontent.com/47809649/137536861-135f305c-3fc9-4233-b36e-ea6a2f907fa0.jpg)
+
+![preview](https://user-images.githubusercontent.com/47809649/137536949-7ec581a6-0e7b-4acf-b77c-45633bb3b52d.png)
