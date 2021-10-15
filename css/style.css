@@ -35,12 +35,12 @@ h1, h2, h3, h4, h5, h6 {
     padding-top: 72px;
 }
 
-.header-content{
+.header__content{
     display: flex;
     justify-content: space-between;
 }
 
-.nav{
+.header__nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -52,7 +52,7 @@ a{
     color: black;
 }
 
-.mail{
+.header__nav-mail{
     font-size: 18px;
 }
 
@@ -61,23 +61,23 @@ a{
     margin-top: 52px;
 }
 
-.location{
+.offer__location{
     font-size: 24px;
     margin-bottom: 21px;
 }
 
-.offer-title{
+.offer__title{
     font-size: 45px;
     text-transform: uppercase;
     letter-spacing: 0.07em;
 }
 
-.desc{
+.offer__desc{
     font-size: 24px;
     margin-bottom: 21px;
     margin-top: 21px;
 }
-.btn{
+.offer__btn{
     color: #ffffff;
     background: #6A85E3;
     padding: 24px 30px;
@@ -87,10 +87,10 @@ a{
     font-size: 18px;
     border-radius: 4px;
 }
-.btn:hover{
+.offer__btn:hover{
     background: #4468e9;
 }
-.btn-active{
+.offer__btn:active{
     background-color: #35478a;
 }
 .intro{
@@ -100,10 +100,10 @@ a{
     font-size: 18px;
     border-radius: 4px;
 }
-.intro-title{
+.intro__title{
     font-weight: 700;
 }
-.sochi-img{
+.header__content-img{
     max-width: 446px;
     max-height: 596px;
     border-radius: 4px;
